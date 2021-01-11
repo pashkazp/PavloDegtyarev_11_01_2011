@@ -16,7 +16,9 @@ Enjoy
 p/s/
 
 Результат работы алгоритма:
+
 Список файлов\директорий на кодирование:
+
 A:\1_TEST_QA\Volumes\MEM1108073\STARLING_101_V2\00-EPISODE\NY_STARLING_101_V2_WO1123103_MEM1141786
 A:\1_TEST_QA\Volumes\MEM1108073\STARLING_101_V2\02-PROXY\Manual_WP_089898_RTE_8.mov
 A:\1_TEST_QA\Volumes\MEM1108073\STARLING_101_V2\0_do_not_use\OLD_TIF_FILES\Large Batch 86745-
@@ -37,6 +39,7 @@ A:\1_TEST_QA\Volumes\MEM1108073\STARLING_101_V2\0_do_not_use\Reel_1\patch_8
 A:\1_TEST_QA\Volumes\MEM1108073\STARLING_101_V2\0_do_not_use\Reel_1\patch_9
 
 Список файлов\директорий на копирование:
+
 A:\1_TEST_QA\Volumes\MEM1108073\STARLING_101_V2\01-AUDIO
 A:\1_TEST_QA\Volumes\MEM1108073\STARLING_101_V2\01-METADATA
 A:\1_TEST_QA\Volumes\MEM1108073\STARLING_101_V2\02-REPORTS
