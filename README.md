@@ -14,6 +14,7 @@ Another assessment task. Develop an algorithm for forming two lists of files and
 Enjoy
 
 p/s/
+
 Результат работы алгоритма:
 Список файлов\директорий на кодирование:
 A:\1_TEST_QA\Volumes\MEM1108073\STARLING_101_V2\00-EPISODE\NY_STARLING_101_V2_WO1123103_MEM1141786
