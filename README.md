@@ -38,7 +38,7 @@ A:\1_TEST_QA\Volumes\MEM1108073\STARLING_101_V2\0_do_not_use\Reel_1\patch_7
 A:\1_TEST_QA\Volumes\MEM1108073\STARLING_101_V2\0_do_not_use\Reel_1\patch_8
 A:\1_TEST_QA\Volumes\MEM1108073\STARLING_101_V2\0_do_not_use\Reel_1\patch_9
 
-Список файлов\директорий на копирование:
+Список файлов\директорий на копирование: 
 
 A:\1_TEST_QA\Volumes\MEM1108073\STARLING_101_V2\01-AUDIO
 A:\1_TEST_QA\Volumes\MEM1108073\STARLING_101_V2\01-METADATA
