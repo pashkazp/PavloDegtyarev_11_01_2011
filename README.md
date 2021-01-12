@@ -11,6 +11,7 @@ Another assessment task. Develop an algorithm for forming two lists of files and
 6. Go in to media-process/ subdirectory
 7. Compile project by enter command in console: mvn clean package
 8. Run application: java -jar media-process-application/target/media-process-app.jar
+
 Enjoy
 
 p/s/
