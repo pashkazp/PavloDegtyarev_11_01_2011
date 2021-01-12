@@ -14,7 +14,7 @@ Another assessment task. Develop an algorithm for forming two lists of files and
 
 Enjoy
 
-p/s/
+p.s.
 ```
 Результат работы алгоритма:
 
